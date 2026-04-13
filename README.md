@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sohaib</h1>
+<h1 align="center">Hi, I'm Sohaib</h1>
 <h3 align="center">A passionate developer & a cybersecurity enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=co-obalt&label=Profile%20views&color=0e75b6&style=flat" alt="co-obalt" /> </p>
@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/sohaib015" target="blank"><img src="https://img.shields.io/twitter/follow/sohaib015?logo=twitter&style=for-the-badge" alt="sohaib015" /></a> </p>
 
-- 🔭 I’m currently working on [Deltarq — a SIEM + SOAR & compliance automation tool (in building phase)](deltarq.vercel.app)
+- 🔭 I’m currently building **[Deltarq](https://deltarq.vercel.app)** — a SIEM + SOAR and compliance automation tool
+
+- 🛠️ I’m the founder of **Deltarq**, focused on security monitoring, automation, and practical workflows (currently in building phase)
 
 - 🌱 I’m currently learning **modern frameworks and security concepts**
 
-- 👯 I’m looking to collaborate on **Tools, automation systems, and security-focused projects**
+- 👯 I’m looking to collaborate on **tools, automation systems, and security-focused projects**
 
-- 🤝 I’m looking for help with **Deltarq's UI/UX (help me make it look hot) & Beta testing to break it in creative ways.**
+- 🤝 I’m looking for help with **Deltarq's UI/UX (help me make it look hot) & Beta testing to break it in creative ways**
 
-- 💬 Ask me about **Deltarq's roadmap or how to make the perfect cup of Karak tea.**
+- 💬 Ask me about **Deltarq, how I’m building it, or random dev stuff (and yes, Karak tea too ☕)**
 
-- 📫 How to reach me **sohaib.015.m@gmail.com**
+- 📫 Reach me at **sohaib.015.m@gmail.com**
 
-- ⚡ Fun fact is: **I’m the reason why 'Stack Overflow' stays in business.**
-
-
+- ⚡ Fun fact: **I keep breaking things until they finally work**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/msohaib-deltarq) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/z4zombiee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohaib.015.m@gmail.com) 
 
