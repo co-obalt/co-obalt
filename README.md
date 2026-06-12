@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=7b2cbf&height=250&section=header&text=SOHAIB&fontSize=255&fontColor=ffffff&fontAlignY=40" alt="Sohaib Header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=7b2cbf&height=250&section=header&text=SOHAIB&fontSize=219&fontColor=ffffff&fontAlignY=40" alt="Sohaib Header" />
 </p>
 
 <p align="center">
