@@ -1,36 +1,223 @@
-<h1 align="center">Hi 👋, I'm Sohaib</h1>
-<h3 align="center">A passionate developer & a cybersecurity enthusiast</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=7b2cbf&height=250&section=header&text=SOHAIB&fontSize=255&fontColor=ffffff&fontAlignY=40" alt="Sohaib Header" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=co-obalt&label=Profile%20views&color=0e75b6&style=flat" alt="co-obalt" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9d4edd&center=true&vCenter=true&width=500&lines=Founder+of+Deltarq;Developer+%26+Builder;Cybersecurity+Enthusiast" alt="Typing SVG" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=co-obalt" alt="co-obalt" /></a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Development-7b2cbf?style=flat-square" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/Location-Pakistan-9d4edd?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/github/followers/co-obalt?style=flat-square&color=c77dff&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/co-obalt?style=flat-square&color=e0aaff&label=Stars" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=co-obalt&color=7b2cbf&style=flat-square&label=Profile+Views" alt="Views" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/sohaib015" target="blank"><img src="https://img.shields.io/twitter/follow/sohaib015?logo=twitter&style=for-the-badge" alt="sohaib015" /></a> </p>
-
-- 🔭 I’m currently building **[Deltarq](https://deltarq.vercel.app)** — a SIEM + SOAR and compliance automation tool
-
-- 🛠️ I’m the founder of **Deltarq**, focused on security monitoring, automation, and practical workflows (currently in building phase)
-
-- 🌱 I’m currently learning **modern frameworks and security concepts**
-
-- 👯 I’m looking to collaborate on **tools, automation systems, and security-focused projects**
-
-- 🤝 I’m looking for help with **Deltarq's UI/UX (help me make it look hot) & Beta testing to break it in creative ways**
-
-- 💬 Ask me about **Deltarq, how I’m building it, or random dev stuff (and yes, Karak tea too ☕)**
-
-- 📫 Reach me at **sohaib.015.m@gmail.com**
-
-- ⚡ Fun fact: **I keep breaking things until they finally work**
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/msohaib-deltarq) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/z4zombiee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sohaib.015.m@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=co-obalt&theme=light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=co-obalt&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=co-obalt&theme=light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://deltarq.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Deltarq-7b2cbf?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sohaib015m/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sohaib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sohaib.015.m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/co-obalt" target="_blank"><img src="https://img.shields.io/badge/GitHub-co--obalt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=co-obalt&icon=0)](https://visitcount.itsvg.in)
+
+## 🌌 About Me
+
+I am the **Founder of Deltarq**, a developer, and a cybersecurity enthusiast driven by building tools that solve real problems. I don't subscribe to rigid architectural dogmas—I build dynamically, leaning into a fluid creation process to bring ideas to life rapidly and iterate until they work flawlessly. 
+
+My focus centers on constructing security workflows, automation tooling, and telemetry tracking systems. By matching clean frontend interfaces with adaptable backend frameworks, I design platforms that map, monitor, and mitigate infrastructure challenges with speed and clarity.
+
+### 🎯 Open To
+* 🛡️ **Security Engineering Projects** & Custom Security Logic
+* ⚙️ **Automation Systems** & High-Speed Scripting Workflows
+* 🛠️ **Cybersecurity Tooling** & Intuitive Threat Monitoring UIs
+* 🌐 **Open Source Collaboration** on Fast-Paced Prototyping
+* 🚀 **Product Development** & Feature Architecture 
+* 🧪 **Beta Testing Partnerships** & Active User Feedback for Deltarq
+* 🎨 **UI/UX Contributors** ready to craft clean user interfaces
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+</p>
+
+### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+</p>
+
+### ☁️ Cloud, DevOps & Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+---
+
+## 🧠 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Machine Learning** | Intermediate | Practical pipeline prototyping with PyTorch, NumPy, and Pandas |
+| **Data Processing** | Intermediate | Building parsing setups for multi-format security logs |
+| **AI Development** | Intermediate | Testing practical implementations and algorithmic flows |
+| **Python Ecosystem** | Advanced | General data scripting, parsing libraries, and tool automation |
+
+---
+
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>🛡️ Deltarq — Security Operations Redefined</b></summary>
+<br>
+
+> **The Vision:** Traditional SIEM and SOAR tools are over-engineered, heavy, and exhausting to configure. Deltarq is being built to break that mold—unifying event logging, instant alerting, and custom playbook execution into a highly accessible, rapid-deployment interface.
+
+[ Telemetry Ingestion ] ──> [ Rule Parsing Engine ] ──> [ Actionable Playbooks ]
+
+| Category | Deep-Dive System Details |
+| :--- | :--- |
+| **Core Architecture** | Unifying threat monitoring with immediate, scriptable compliance maps |
+| **Dynamic Workflows** | Built for fast ingestion, handling incoming system events dynamically |
+| **The Stack** | React frontend providing clean visuals, supported by a scalable cloud structure |
+| **Execution Mindset** | Moving quickly from experimental logic to functional security features |
+| **Current Repository Status** | 🔒 Active Internal Iteration & Development |
+
+#### What Makes It Different?
+Instead of forcing users through endless enterprise configurations, Deltarq focuses on immediate utility. It captures environment signals, processes them against adaptable rule patterns, and lets operators deploy automated playbooks with a single click. It’s security engineering built with a flexible, high-momentum approach to code.
+
+</details>
+
+---
+
+## 💼 Experience
+
+### 🚀 Founder & Lead Builder | Deltarq
+*Present*
+
+ spearheading the vision, interface development, and system loops for an accessible security orchestration platform.
+
+* **Adaptive Detection:** Writing flexible parsers to process diverse infrastructure log outputs cleanly.
+* **Orchestration Sequences:** Crafting automation engines that trigger active defensive scripts when events align.
+* **Rapid Iteration:** Translating operational security workflows directly into working prototype features.
+* **Product Vision:** Leading frontend design direction and functional technical architecture choices.
+
+`Cybersecurity` `SIEM` `SOAR` `Automation` `React` `TypeScript` `Cloud`
+
+---
+
+## 🏆 Achievements
+
+| Recognition | Details |
+| :--- | :--- |
+| **Platform Creator** | Designed and engineered the architectural framework underpinning Deltarq |
+| **Automation Flow** | Structured the modular playbooks powering real-time system responses |
+
+---
+
+## 📜 Certifications
+
+### ☁️ Enterprise Cloud Infrastructure Providers
+<img src="https://img.shields.io/badge/Google-In_Progress-232F3E?style=flat-square&logo=Google" alt="AWS Cert" /> <img src="https://img.shields.io/badge/Oracle-In_Progress-F80000?style=flat-square&logo=oracle" alt="Oracle Cert" />
+
+---
+
+## 🔗 Social & Contact Links
+
+<p align="left">
+  <a href="https://github.com/co-obalt" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/sohaib015m/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/sohaib015" target="_blank"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
+  <a href="https://reddit.com/user/z4zombiee" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="mailto:sohaib.015.m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-sohaib.015.m@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=co-obalt&show_icons=true&theme=dark&hide_border=true&title_color=9d4edd&icon_color=7b2cbf&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=co-obalt&layout=compact&theme=dark&hide_border=true&title_color=9d4edd&icon_color=7b2cbf&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=co-obalt&theme=dark&hide_border=true&background=0d1117&title=9d4edd&ring=7b2cbf&fire=c77dff" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=co-obalt&theme=darkhub&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=co-obalt&theme=github-dark-purple&bg_color=0d1117&hide_border=true&color=7b2cbf" alt="Activity Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/co-obalt/co-obalt/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+
+## 🎯 Current Focus
+
+> ### 🧠 Learning
+> `Modern Frameworks` &bull; `Security Concepts` &bull; `Security Engineering` &bull; `Cloud Technologies`
+>
+> ### 🛠️ Building
+> **`Deltarq`** &bull; `SIEM Platform` &bull; `SOAR Automation` &bull; `Compliance Automation Tools`
+>
+> ### 🔍 Exploring
+> `Detection Engineering` &bull; `Security Monitoring` &bull; `Cloud Security` &bull; `Workflow Automation`
+>
+> ### 🤝 Open To
+> `Collaborations` &bull; `Security Projects` &bull; `Beta Testing` &bull; `Open Source Contributions`
+
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:sohaib.015.m@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/sohaib015m/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/co-obalt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://deltarq.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7b2cbf?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"The fun fact about me is, I keep breaking things until they finally work."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=7b2cbf&height=100&section=footer" alt="Footer Banner" />
+</p>
